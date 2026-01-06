@@ -26,9 +26,9 @@ I implemented a **Docs-as-Code** workflow to ensure the documentation lived alon
 ## 📂 Documentation Deliverables
 This repository contains three pillars of the EuroFlow ecosystem:
 
-1. **[Internal] VAT Reconciliation SOP:** A high-compliance document for finance teams to ensure 100% audit accuracy.
-2. **[External] EuroFlow User Guide:** A step-by-step manual for generating VAT-compliant financial records.
-3. **[Reference] The Fintech Glossary:** A standardized dictionary of SaaS and Tax-Tech terminology.
+1. **[Internal] [VAT Reconciliation SOP](./vat-reconciliation-sop/internal-sop):** A high-compliance document for finance teams to ensure 100% audit accuracy.
+2. **[External] [EuroFlow User Guide](./user-guide/getting-started):** A step-by-step manual for generating VAT-compliant financial records.
+3. **[Reference] [The Fintech Glossary](./glossary/fintech-terms):** A standardized dictionary of SaaS and Tax-Tech terminology.
 
 ---
 
